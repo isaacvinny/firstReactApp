@@ -1,8 +1,15 @@
+import mrOne from "./assets/images/mr-one.png"
+import mrsOne from "./assets/images/mrs-one.png"
+import mrsThree from "./assets/images/mrs-three.png"
+import mrsTwo from "./assets/images/mrs-two.png"
+import mrThree from "./assets/images/mr-three.png"
+import mrTwo from "./assets/images/mr-two.png"
+
 export default [
     {
         id: 1,
         image: {
-            src:"./src/assets/images/mr-one.png",
+            src: mrOne,
             alt:"Mr one image"
           },
         name: "Mr Numerical One",
@@ -14,7 +21,7 @@ export default [
     {
         id: 2,
         image: {
-            src:"./src/assets/images/mrs-one.png",
+            src: mrsOne,
             alt:"Mrs one image"
           },
         name: "Mrs Numerical One",
@@ -26,7 +33,7 @@ export default [
     {
         id: 3,
         image: {
-            src:"./src/assets/images/mrs-three.png",
+            src: mrsThree,
             alt:"Mrs three image"
           },
         name: "Mrs Numerical Three",
@@ -38,7 +45,7 @@ export default [
     {
         id: 4,
         image: {
-            src:"./src/assets/images/mrs-two.png",
+            src: mrsTwo,
             alt:"Mrs two image"
           },
         name: "Mrs Numerical Two",
@@ -50,7 +57,7 @@ export default [
     {
         id: 5,
         image:{
-            src:"./src/assets/images/mr-three.png",
+            src: mrThree,
             alt:"Mr three image"
           },
         name: "Mr Numerical Three",
@@ -62,7 +69,7 @@ export default [
     {
         id: 6,
         image: {
-            src:"./src/assets/images/mr-two.png",
+            src: mrTwo,
             alt:"Mr two image"
           },
         name: "Mr Numerical Two",
