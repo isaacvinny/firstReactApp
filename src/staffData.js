@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         image: {
-            src:"../public/images/mr-one.png",
+            src:"./src/assets/images/mr-one.png",
             alt:"Mr one image"
           },
         name: "Mr Numerical One",
@@ -14,8 +14,8 @@ export default [
     {
         id: 2,
         image: {
-            src:"../public/images/mrs-one.png",
-            alt:"Mr one image"
+            src:"./src/assets/images/mrs-one.png",
+            alt:"Mrs one image"
           },
         name: "Mrs Numerical One",
         position: "Cheif Financial Officer",
@@ -26,8 +26,8 @@ export default [
     {
         id: 3,
         image: {
-            src:"../public/images/mrs-three.png",
-            alt:"Mr one image"
+            src:"./src/assets/images/mrs-three.png",
+            alt:"Mrs three image"
           },
         name: "Mrs Numerical Three",
         position: "Human Resource Manager",
@@ -38,8 +38,8 @@ export default [
     {
         id: 4,
         image: {
-            src:"../public/images/mrs-two.png",
-            alt:"Mr one image"
+            src:"./src/assets/images/mrs-two.png",
+            alt:"Mrs two image"
           },
         name: "Mrs Numerical Two",
         position: "Marketing Manager",
@@ -50,8 +50,8 @@ export default [
     {
         id: 5,
         image:{
-            src:"../public/images/mr-three.png",
-            alt:"Mr one image"
+            src:"./src/assets/images/mr-three.png",
+            alt:"Mr three image"
           },
         name: "Mr Numerical Three",
         position: "Information Technology Manager",
@@ -62,8 +62,8 @@ export default [
     {
         id: 6,
         image: {
-            src:"../public/images/mr-two.png",
-            alt:"Mr one image"
+            src:"./src/assets/images/mr-two.png",
+            alt:"Mr two image"
           },
         name: "Mr Numerical Two",
         position: "Cheif Production Manager",
